@@ -14,8 +14,11 @@ This project implements a relational database model for a Music Store using SQL.
 ## Features
 
 CRUD Operations: Create, read, update, and delete records for artists, albums, tracks, customers, and orders.
+
 Query Optimization: Use indexing and proper joins for faster queries.
+
 Data Analysis: Aggregate functions to get insights, such as total sales and most popular albums.
+
 Custom Queries: Find out top artists, most-purchased albums, etc.
 
 ## Queries
